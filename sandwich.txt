@@ -1,6 +1,4 @@
 bread
-More bread
-[what goes here?]
 garden-fresh tomato
 Garlic
 bacon!
