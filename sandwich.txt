@@ -1,4 +1,6 @@
 bread
+Lettuce
+Cheese
 garden-fresh tomato
 provolone
 Garlic
